@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b362831-b678-4a88-8c08-ba5ba56f8157" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Manipulando Arquivos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alunos.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EscritaArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeituraAlunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeituraAlunosComVariaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeituraArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeituraCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegistroAlunos.java" afterDir="false" />
+    <list default="true" id="8b362831-b678-4a88-8c08-ba5ba56f8157" name="Changes" comment="Aula 28/10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +51,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jose_\Documents\Aulas\POO\POO\Manipulando Arquivos" />
+      <recent name="C:\Users\jose_\Documents\Aulas\POO\POO\Manipulando Arquivos\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,12 +73,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730074679323</updated>
-      <workItem from="1730074680421" duration="1135000" />
+      <workItem from="1730074680421" duration="1173000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula 28/10">
+      <option name="closed" value="true" />
+      <created>1730075836037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730075836038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 28/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 28/10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -33,7 +33,7 @@ public class LeituraCSV {
                     count++;
 
                     // Exibindo os dados no console
-                    System.out.println("ID: " + count + "| Nome: " + nome + ", Email: " + email + ", Matrícula: " + matricula);
+                    System.out.println("ID: " + count + " | Nome: " + nome + ", Email: " + email + ", Matrícula: " + matricula);
                 }
             }
 

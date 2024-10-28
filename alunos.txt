@@ -1,0 +1,6 @@
+Lista de Alunos:
+-----------------
+Ana Silva - Matrícula: 202301
+João Souza - Matrícula: 202302
+Maria Oliveira - Matrícula: 202303
+Carlos Santos - Matrícula: 202304
